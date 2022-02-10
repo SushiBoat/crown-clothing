@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crown-clothing/static/css/main.e6c13ad2.css",
+    "main.js": "/crown-clothing/static/js/main.28ff0644.js",
+    "service-worker.js": "/crown-clothing/service-worker.js",
+    "index.html": "/crown-clothing/index.html",
+    "main.e6c13ad2.css.map": "/crown-clothing/static/css/main.e6c13ad2.css.map",
+    "main.28ff0644.js.map": "/crown-clothing/static/js/main.28ff0644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.28ff0644.js"
+  ]
+}
